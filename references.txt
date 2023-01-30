@@ -1,0 +1,14 @@
+// Pagination 
+
+https://codesandbox.io/s/react-hooks-material-ui-pagination-example-forked-tjm651?file=/src/Pagination.js:96-107 
+https://codepen.io/monsieurv/pen/abyJQWQ?editors=0010
+https://codesandbox.io/s/cnbx8?file=/src/Pagination.js:539-552
+https://codepen.io/piyushpd139/pen/vYpZxxy
+
+https://felixgerschau.com/react-rerender-components/
+
+
+
+(node:5288) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:5288) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
